@@ -1,0 +1,25 @@
+{
+  "name": "cloudmersive-apiclient-javascript-barcode",
+  "description": "Cloudmersive API client for the Barcode API, configured for Browser use",
+  "main": "cloudmersive-barcode-browser-jsclient.js",
+  "authors": [
+    "Cloudmersive <support@cloudmersive.com>"
+  ],
+  "license": "Apache2.0",
+  "keywords": [
+    "cloudmersive",
+    "barcode",
+    "api"
+  ],
+  "homepage": "https://cloudmersive.com/barcode-api",
+  "_release": "e3d52c1f3b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e3d52c1f3becb9e35e68b637ab6eba998838c592"
+  },
+  "_source": "https://github.com/Cloudmersive/Cloudmersive.APIClient.Javascript.Barcode.git",
+  "_target": "*",
+  "_originalSource": "cloudmersive-apiclient-javascript-barcode",
+  "_direct": true
+}
