@@ -1,0 +1,11 @@
+{
+  "name": "Example.Javascript.Barcode",
+  "homepage": "https://github.com/Cloudmersive/Example.Javascript.Barcode",
+  "authors": [
+    "Cloudmersive <35204726+Cloudmersive@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true
+}
